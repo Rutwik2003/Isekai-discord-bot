@@ -152,4 +152,6 @@ This project is provided as-is for educational and community use. Please review 
 ## Credits
 If you use this code or any part of it, please give credit to **[Rutwik2003](https://github.com/Rutwik2003)** (my GitHub username).
 
-If you have any issues or questions, feel free to contact me via Discord at **rocky_rutwik**. 
+If you have any issues or questions, feel free to contact me via Discord at **rocky_rutwik**.
+
+For support or to join the community, visit our Discord server: [https://discord.rutwikdev.com/](https://discord.rutwikdev.com/) 
